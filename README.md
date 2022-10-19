@@ -23,7 +23,7 @@ This project will compute customer debts, it will combines 3 differents APIS res
  
  ### Execute Script 
 <ul>
-<li>On your terminal run  "<b>python3 -m venv env</b>" to run the script</li>
+<li>On your terminal run  "<b>python3 app.py</b>" to run the script</li>
 </ul>
 
 ## Core | Project Structure
