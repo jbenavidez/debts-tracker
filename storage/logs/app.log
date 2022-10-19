@@ -1,0 +1,37 @@
+2022-10-18 23:40:54,448 | INFO | Debts API call succefully 200
+2022-10-18 23:40:54,451 | INFO | validated Debts info 0
+2022-10-18 23:40:54,451 | INFO | validated Debts info 1
+2022-10-18 23:40:54,451 | INFO | validated Debts info 2
+2022-10-18 23:40:54,451 | INFO | validated Debts info 3
+2022-10-18 23:40:54,451 | INFO | validated Debts info 4
+2022-10-18 23:40:54,598 | INFO | Payment Plans API call succefully 200
+2022-10-18 23:40:54,603 | INFO | validated payment_plan info 0
+2022-10-18 23:40:54,605 | INFO | validated payment_plan info 1
+2022-10-18 23:40:54,606 | INFO | validated payment_plan info 2
+2022-10-18 23:40:54,607 | INFO | validated payment_plan info 3
+2022-10-18 23:40:54,783 | INFO | Payment API call succefully 200
+2022-10-18 23:40:54,784 | INFO | validated payment info 0
+2022-10-18 23:40:54,784 | INFO | validated payment info 0
+2022-10-18 23:40:54,784 | INFO | validated payment info 1
+2022-10-18 23:40:54,784 | INFO | validated payment info 1
+2022-10-18 23:40:54,784 | INFO | validated payment info 2
+2022-10-18 23:40:54,784 | INFO | validated payment info 3
+2022-10-18 23:40:54,784 | INFO | validated payment info 3
+2022-10-18 23:40:54,784 | INFO | validated payment info 3
+2022-10-18 23:40:54,785 | INFO | setting debts is_in_payment_plan flag for debt_id: 0
+2022-10-18 23:40:54,785 | INFO | Getting payments info for payment_plan_id: 0
+2022-10-18 23:40:54,785 | INFO | calculating remaining amount for payment_plan_id: 0
+2022-10-18 23:40:54,785 | INFO | checking if payments are on time
+2022-10-18 23:40:54,789 | INFO | setting debts is_in_payment_plan flag for debt_id: 1
+2022-10-18 23:40:54,789 | INFO | Getting payments info for payment_plan_id: 1
+2022-10-18 23:40:54,789 | INFO | calculating remaining amount for payment_plan_id: 1
+2022-10-18 23:40:54,789 | INFO | checking if payments are on time
+2022-10-18 23:40:54,789 | INFO | setting debts is_in_payment_plan flag for debt_id: 2
+2022-10-18 23:40:54,789 | INFO | Getting payments info for payment_plan_id: 2
+2022-10-18 23:40:54,789 | INFO | calculating remaining amount for payment_plan_id: 2
+2022-10-18 23:40:54,789 | INFO | checking if payments are on time
+2022-10-18 23:40:54,789 | INFO | setting debts is_in_payment_plan flag for debt_id: 3
+2022-10-18 23:40:54,790 | INFO | Getting payments info for payment_plan_id: 3
+2022-10-18 23:40:54,790 | INFO | calculating remaining amount for payment_plan_id: 3
+2022-10-18 23:40:54,790 | INFO | checking if payments are on time
+2022-10-18 23:40:54,790 | INFO | setting debts is_in_payment_plan flag for debt_id: 4
