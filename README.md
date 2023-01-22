@@ -55,6 +55,4 @@ app.log file contains all the logg during our fetch/transform data
 
 
 ### TEST 
-since this process depends on external APIS call, its not good coding standars to test API call. However, in order to keep track of the fetch/transform
-I created the 'logger' method, that provide information about everything step in our script, and it save every log in in a "app.log", just in case if something 
-goes bad, we can use this file for debugging
+
